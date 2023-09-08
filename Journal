@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Lab Journal Template}
+\author{Author}
+\date{September 2023}
+
+
+\begin{document}
+\maketitle
+\section*{Preperation}
+\section*{Goal Experiment}
+\subsection*{Goal}
+\subsection*{Expectation}
+\section*{Theory and Method}
+\subsection*{Theory}
+\subsection*{Measurement Model}
+\subsection*{Measurement Procedure}
+\subsection*{Processing}
+\subsection*{Error analysis}
+\section*{Experimental}
+\subsection*{The setup}
+\subsection*{Results and Discussion}
+\subsection*{Conclusion}
+\end{document}
